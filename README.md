@@ -4,5 +4,5 @@
 ### EJS & MongoDB
 This project is focused on ejs and mongodb to save the data on its cloud. Basic bloging webside where you can post contant to see for everyone.
 
-##### NOTE
+#### NOTE
 Website link .com/compose Lets you post new blogs.
